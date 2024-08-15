@@ -1,0 +1,7 @@
+
+---------------------------File-Du-Lieu-Khach-Hang-------------------------------
+     Ma KH                Ho va Ten Gioi Tinh       Nam Sinh        So CMND            Que Quan      Ngay Thue
+
+-------------------------------------------------------------------------------------------
+       002           Nguyen Gia Bao       Nam           2003          34829            Lam Dong     20-10-2023
+       001          Phan Hoang Hung       Nam           2003          32482             Ha Tinh     18-02-2023

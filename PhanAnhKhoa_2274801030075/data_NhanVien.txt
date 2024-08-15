@@ -1,0 +1,6 @@
+--------------------------------------------Ghi-Du-Lieu-Nhan-Vien-----------------------------------------------------
+     Ma NV                Ho va Ten Gioi Tinh       Nam Sinh        Chuc vu           Muc luong
+---------------------------------------------------------------------------------------------------------------------
+       003           Pham Thanh Nha        Nu           2004       Tiep tan             7000000
+       002      Nguyen Thi Ngoc Han        Nu           2004       Tiep tan             7000000
+       001            Hoang Lan Anh        Nu           2001        Quan ly            10000000
